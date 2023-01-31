@@ -1,3 +1,3 @@
 # cpp-slinked-list
 
-Singular linked list implemented in C++
+Singular linked list template for C++.
