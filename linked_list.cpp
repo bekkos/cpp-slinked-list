@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 #include "linked_list.h"
 
 using namespace std;
@@ -173,3 +174,4 @@ string linked_list::get_at_index(int index)
     }
     return NULL;
 }
+
