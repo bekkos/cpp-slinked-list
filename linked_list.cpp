@@ -76,9 +76,9 @@ void linked_list::add_at_index(int index, string value)
 void linked_list::replace_at_index(int index, string value)
 {
     /* 
-    Could just replace value,
-    future proofing by swapping nodes.
-        */
+        Could just replace value,
+        future proofing by swapping nodes.
+    */
     
     Node* tmp = new Node;
     tmp->value = value;
